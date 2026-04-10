@@ -1,6 +1,6 @@
-# 👋 Hello, I'm [Your Name]
+# 👋 Hello, I'm Milo
 
-I am a technology enthusiast with a strong focus on **Artificial Intelligence**, **systems engineering**, and **self-hosted infrastructure**. I enjoy building practical solutions, exploring new technologies, and continuously improving my technical skill set.
+I am a student at KU Leuven with a strong focus on **Artificial Intelligence**, **Homelabbing**, and **self-hosted infrastructure**. I enjoy building practical solutions, exploring new technologies, and continuously improving my technical skill set.
 
 ---
 
