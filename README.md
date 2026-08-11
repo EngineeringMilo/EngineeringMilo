@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Milo
 
-I’m a student at KU Leuven focused on **Artificial Intelligence**, **Homelabbing**, and **cyberdefence**. I enjoy building practical solutions and continuously expanding my technical skill set.
+I’m a student at KU Leuven focused on **Artificial Intelligence**, **Homelabbing**, and **Cyberdefence**. I enjoy building practical solutions and continuously expanding my technical skill set.
 
 ---
 
